@@ -21,22 +21,17 @@ Video walkthrough: https://youtu.be/BKR2Ly6rWnE
 
 # Screenshots
 
+The entire design of the prototype. This includes every screen in the application.
 ![full](/screenshots/full_screenshot.png)
 
-The entire design of the prototype. This includes every screen in the application.
-
+The start page of the application.
 ![start page](/screenshots/Start_Page.png)
 
-The start page of the application.
-
+The home page, where the user is able to access all the features of the application.
 ![home page](/screenshots/Home_Page.png)
 
-The home page, where the user is able to access all the features of the application.
-
+The symptoms page, where the users can identify symptoms they have and visit the offical Ontario Covid-19 website for further information.
 ![symptoms page](/screenshots/Symtoms_Page.png)
 
-The symptoms page, where the users can identify symptoms they have and visit the offical Ontario Covid-19 website for further information.
-
-![chat page](/screenshots/Chat_Page.png)
-
 The chat page, where the user can select a chat room and communicate with other people in real-time.
+![chat page](/screenshots/Chat_Page.png)
