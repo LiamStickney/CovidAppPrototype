@@ -21,6 +21,8 @@ Video walkthrough:
 
 5. Similar to the third feature, but some sort of risk calculator for an entire region. User's could view a local, and the application could weigh in factors like population, size of the region, confirmed cases, etc. to weigh how risky visiting that area could be. This could help users make informed decisions about where they should visit during the pandemic.
 
+# Screenshots
+
 ![start page](/screenshots/Start_Page.png)
 
 ![home page](/screenshots/Home_Page.png)
