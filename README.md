@@ -7,7 +7,7 @@ Figma URL: https://www.figma.com/file/HY13B5VwzntXktXir8pBbt/Covid-19-App?node-i
 
 Video walkthrough: https://youtu.be/BKR2Ly6rWnE
 
-# Desirable Functionalitiles
+# Desirable Future Functionalities
 
 1. The ability to schedule a Covid-19 test from inside the application. This would likely need to be done in some sort of official government application, but the ability to schedule a Covid-19 test directly from the application would save the users time in having to schedule their own by visiting several websites or by making phone calls.
 
@@ -20,6 +20,10 @@ Video walkthrough: https://youtu.be/BKR2Ly6rWnE
 5. Similar to the third feature, but some sort of risk calculator for an entire region. User's could view a local, and the application could weigh in factors like population, size of the region, confirmed cases, etc. to weigh how risky visiting that area could be. This could help users make informed decisions about where they should visit during the pandemic.
 
 # Screenshots
+
+![full](/screenshots/full_screenshot.png)
+
+The entire design of the prototype. This includes every screen in the application.
 
 ![start page](/screenshots/Start_Page.png)
 
