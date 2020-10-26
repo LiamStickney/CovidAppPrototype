@@ -25,6 +25,6 @@ Video walkthrough:
 
 ![home page](/screenshots/Home_Page.png)
 
-![symptoms page](/screenshots/Symptoms_Page.png)
+![symptoms page](/screenshots/Symtoms_Page.png)
 
 ![chat page](/screenshots/Chat_Page.png)
