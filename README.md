@@ -22,7 +22,7 @@ Video walkthrough: https://youtu.be/BKR2Ly6rWnE
 # Screenshots (Design)
 
 The entire design of the prototype. This includes every screen in the application.
-![full](/screenshots/full snapshot.png)
+![full](/screenshots/full_snapshot.png)
 
 The start page of the application.
 
