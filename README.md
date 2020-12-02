@@ -23,6 +23,7 @@ Video walkthrough: https://youtu.be/BKR2Ly6rWnE
 
 The entire design of the prototype. This includes every screen in the application.
 
+![full](/screenshots/full_snapshot.png)
 
 The start page of the application.
 
