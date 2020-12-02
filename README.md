@@ -5,7 +5,7 @@ The profile page allows the user to enter extra information about themselves, in
 
 Figma URL: https://www.figma.com/file/HY13B5VwzntXktXir8pBbt/Covid-19-App?node-id=0%3A1
 
-Video walkthrough: https://youtu.be/BKR2Ly6rWnE
+Video walkthrough: https://youtu.be/BKR2Ly6rWnE (outdated)
 
 # Desirable Future Functionalities
 
